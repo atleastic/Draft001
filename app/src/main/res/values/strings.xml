@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Draft001</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_id_textbox">Username</string>
+    <string name="enter_passwd_textbox">Password</string>
+    <string name="go_button">Go</string>
+    <string name="error_id">Enter valid Username</string>
+    <string name="error_passwd">Enter valid password</string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="err_msg_name">Enter your full name</string>
+    <string name="err_msg_email">Enter valid email address</string>
+    <string name="err_msg_password">Enter the password</string>
+    <string name="naruto_name2">Uzumaki</string>
+    <string name="naruto_name">Naruto Uzumaki</string>
+    <string name="naruto_tagline">I will become Hokage</string>
+    <string name="desc">Naruto Uzumaki (うずまきナルト, Uzumaki Naruto) is a shinobi of Konohagakure.
+                        He became the jinchūriki of the Nine-Tails on the day of his birth —
+                        a fate that caused him to be ostracised by most of Konoha throughout his childhood.
+                        After joining Team Kakashi, Naruto worked hard to gain the village\'s acknowledgement
+                        all the while chasing his dream to become Hokage. In the following years, through
+                        many hardships and ordeals, he became a capable ninja regarded as a hero both by
+                        the villagers, and soon after, the rest of the world. He soon proved to be one of
+                        the main factors in winning the Fourth Shinobi World War, leading him to achieve
+                        his dream and become the village\'s Seventh Hokage (七代目火影, Nanadaime Hokage,
+                        Literally meaning: Seventh Fire Shadow).</string>
+</resources>
